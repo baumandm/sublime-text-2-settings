@@ -1,0 +1,21 @@
+{
+    "jshint_options":
+    {
+        "$": false,
+        "bitwise": true,
+        "browser": true,
+        "camelcase": true,
+        "devel": true,
+        "evil": true,
+        "jQuery": false,
+        "latedef": true,
+        "laxcomma": true,
+        "newcap": true,
+        "regexdash": true,
+        "regexp": true,
+        "sub": true,
+        "trailing": false,
+        "wsh": true
+    },
+    "sublimelinter_fill_outlines": true
+}

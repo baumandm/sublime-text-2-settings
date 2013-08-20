@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"CoffeeScript",
+		"Haml",
+		"Jade",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Print to HTML",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Theme - Nil",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Web Inspector"
+	],
+	"repositories":
+	[
+		"https://github.com/jdc0589/JsFormat"
+	]
+}
