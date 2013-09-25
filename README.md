@@ -46,6 +46,10 @@ Simple package to highlight selected open/close brackets/braces/parentheses.  In
 
 User settings: none
 
+### [Git](https://github.com/kemayo/sublime-git/wiki)
+
+Git integration with Sublime Text.
+
 ### SublimeLinter
 
 Provides on-demand error checking of documents.  To get Coffeescript linting to work, use npm to install it, then restart Sublime Text.
